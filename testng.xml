@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="SauceLab.SuaceLabAutomationFramework_V1_0.verify_sauceLab_purchar_order_test"/>
+      <class name="SauceLab.SuaceLabAutomationFramework_V1_0.verify_reset_app_state_test"/>
+      <class name="SauceLab.SuaceLabAutomationFramework_V1_0.verify_all_items_link_test"/>
+      <class name="SauceLab.SuaceLabAutomationFramework_V1_0.verify_remove_product_from_cart_test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

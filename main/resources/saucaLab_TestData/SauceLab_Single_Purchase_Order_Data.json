@@ -1,0 +1,13 @@
+[
+{
+"username" : "standard_user",
+"password" : "secret_sauce",
+"product" : "Sauce Labs Onesie",
+"product_price" : "7.99",
+"firstName" : "Saran",
+"lastName" : "Angelina",
+"postalCode" : "123456",
+"tax" : "0.64",
+"totalPrice": "8.63"
+}
+]
